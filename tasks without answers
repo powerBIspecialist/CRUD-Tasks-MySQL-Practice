@@ -1,0 +1,42 @@
+
+-- CRUD Tasks – MySQL Practice
+--  1. CREATE (Insert students)
+-- -- Insert 3 new students into the students table.
+
+-- 2. CREATE (Insert courses)
+-- Insert 3 new courses into the courses table.
+
+-- 3. CREATE (Enroll student in a course)
+-- Add a record in enrollments to enroll a student in a course.
+
+-- 4. READ (All students)
+-- Retrieve all records from the students table.
+
+-- 5. READ (All courses)
+-- Retrieve all records from the courses table.
+
+-- 6. READ (Students with courses)
+-- Display all students and the courses they are enrolled in using JOIN.
+
+-- 7. UPDATE student
+-- Update a student's name using their student_id.
+
+-- 8. UPDATE course
+-- Update a course name using its course_id.
+
+-- 9. DELETE enrollment
+-- Delete a specific enrollment record from the enrollments table.
+
+-- 10. DELETE student
+-- Delete a student by student_id and observe what happens to related enrollments.
+
+-- Bonus Challenges
+-- 11. Students without courses
+-- Find all students who are not enrolled in any course.
+
+-- 12. Count courses per student
+-- Show how many courses each student is enrolled in.
+
+
+
+    
